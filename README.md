@@ -50,9 +50,9 @@ Install, Test, Verify, done
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Versioning
+## Security
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/gtsatsis/RLAPI/tags). 
+We are committed to providing a secure script, and you can read [SECURITY.md](SECURITY..md) for more information as to how to report vulnerabilities and get rewarded for it.
 
 ## Authors
 
