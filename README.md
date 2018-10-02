@@ -52,7 +52,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Security
 
-We are committed to providing a secure script, and you can read [SECURITY.md](SECURITY..md) for more information as to how to report vulnerabilities and get rewarded for it.
+We are committed to providing a secure service, and you can read [SECURITY.md](SECURITY.md) for more information as to how to report vulnerabilities and get rewarded for it.
 
 ## Authors
 
